@@ -1,0 +1,10 @@
+.vscode/
+*.pyc
+*.json
+*.params
+*.ipynb
+*.log
+!.gitkeep
+models/*
+*.avi
+*.mp4
